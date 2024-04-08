@@ -1,7 +1,7 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/03/32/21/56/360_F_332215667_FRtsNh6JCtsstNqBlLmiP5dixFFWNJfS.jpg)](https://priyagautam.io)
 <h1 align="center">Hi 👋, I'm Priya Gautam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1sanQyN2QyMGM4dGczZTM3d2l0eTF1bGhwdGI3ZWY2bDI0dGJ1NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya2001&label=Profile%20views&color=0e75b6&style=flat" alt="priya2001" /> </p>
 
